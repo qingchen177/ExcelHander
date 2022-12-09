@@ -4,4 +4,6 @@
 
 # Developed from Qingchen
 
-初始化
+version1.0 
+
+统计物种类型以及其物种数量
