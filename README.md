@@ -4,4 +4,6 @@
 
 # Developed from Qingchen
 
-初始化
+version2.0
+
+统计起点、终点生境受干扰类型以及数量
